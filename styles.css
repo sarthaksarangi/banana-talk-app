@@ -39,6 +39,7 @@ textarea{
     display: block;
     
     margin: auto;
+    margin-bottom: 2rem;
     align-items: center;
     background-color: #fff;
     border-radius: 12px;
@@ -76,7 +77,10 @@ textarea{
     border: 2px solid #cbd5e1;
     border-radius: 1rem;
     margin: auto;
-    margin-top: 1rem;
+    margin-top: 3rem;
     width: 83%;
     height: 20vh;
   }
+p{
+    font-size: large;
+}
