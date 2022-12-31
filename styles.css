@@ -29,7 +29,10 @@ body{
 }
 textarea{
     margin-top: 4rem;
-    width: 28rem;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+    height: 15vh;
 }
 
 .button-35 {
@@ -66,4 +69,14 @@ textarea{
   
   .button-35:hover {
     box-shadow: #121212 0 0 0 3px, transparent 0 0 0 0;
+  }
+  #output{
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #cbd5e1;
+    border-radius: 1rem;
+    margin: auto;
+    margin-top: 1rem;
+    width: 83%;
+    height: 20vh;
   }
