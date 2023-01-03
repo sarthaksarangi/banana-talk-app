@@ -71,7 +71,7 @@ textarea{
   .button-35:hover {
     box-shadow: #121212 0 0 0 3px, transparent 0 0 0 0;
   }
-  #output{
+  .output{
     align-items: center;
     justify-content: center;
     border: 2px solid #cbd5e1;
